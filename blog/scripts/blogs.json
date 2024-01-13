@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Skooldio1",
+        "description": "Des1 Nobis quo est corporis totam dolores. Rerum quam autem debitis dolores sunt et quis occaecati. Nam dolorem dolores.",
+        "publishedDate": "4/1/2024",
+        "imageUrl": "https://fastly.picsum.photos/id/1/300/200.jpg?hmac=-NJkMeYPrdetftjjcJ9lbfAZcXVJhZy4rqGvbP0P8Hg",
+        "readMore": "/src/blogs/1.html"
+    },
+    {
+        "title": "Skooldio2",
+        "description": "Des2 Nobis quo est corporis totam dolores. Rerum quam autem debitis dolores sunt et quis occaecati. Nam dolorem dolores.",
+        "publishedDate": "4/2/2024",
+        "imageUrl": "https://fastly.picsum.photos/id/1/300/200.jpg?hmac=-NJkMeYPrdetftjjcJ9lbfAZcXVJhZy4rqGvbP0P8Hg",
+        "readMore": "/src/blogs/2.html"
+    }
+]
